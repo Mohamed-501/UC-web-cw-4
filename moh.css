@@ -1,0 +1,29 @@
+h1 {
+    background-color: darkgrey;
+    
+    text-align: center;
+
+}
+img {
+    display: flex;
+ text-align: center;
+ justify-content: center;
+  flex-wrap: nowrap;
+}
+
+.bb {
+    background-color: #023047;
+    flex-wrap: wrap;
+    margin: 50px;
+}
+
+
+.countenar {
+
+    display: flex;
+    text-align: center;
+    justify-content: center;
+     flex-wrap: nowrap;
+
+
+}
